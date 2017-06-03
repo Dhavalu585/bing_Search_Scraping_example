@@ -1,0 +1,18 @@
+[1018/150445:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[1018/150445:ERROR:exception_snapshot_win.cc(87)] thread ID 8928 not found in process
+[1018/150445:WARNING:crash_report_exception_handler.cc(56)] ProcessSnapshotWin::Initialize failed
+[1018/151825:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[1018/151825:ERROR:exception_snapshot_win.cc(87)] thread ID 10592 not found in process
+[1018/151825:WARNING:crash_report_exception_handler.cc(56)] ProcessSnapshotWin::Initialize failed
+[1018/165915:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[1018/165915:ERROR:exception_snapshot_win.cc(87)] thread ID 200 not found in process
+[1018/165915:WARNING:crash_report_exception_handler.cc(56)] ProcessSnapshotWin::Initialize failed
+[1018/170055:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[1018/170055:ERROR:exception_snapshot_win.cc(87)] thread ID 8020 not found in process
+[1018/170055:WARNING:crash_report_exception_handler.cc(56)] ProcessSnapshotWin::Initialize failed
+[1019/153941:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[1019/153941:ERROR:exception_snapshot_win.cc(87)] thread ID 5612 not found in process
+[1019/153941:WARNING:crash_report_exception_handler.cc(56)] ProcessSnapshotWin::Initialize failed
+[1020/170747:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[1020/170747:ERROR:exception_snapshot_win.cc(87)] thread ID 4940 not found in process
+[1020/170747:WARNING:crash_report_exception_handler.cc(56)] ProcessSnapshotWin::Initialize failed

@@ -1,0 +1,36 @@
+site:linkedin.com
+site:wikipedia.org
+jobs site:linkedin.com
+storage admin
+storage admin site:linkedin.com
+storage admin jobs
+storage admin jobs site:linkedin.com
+allintext:storage admin jobs
+allintext:storage admin jobs site:linkedin.com
+"contact" 
+contact site:linkedin.com
+contact site:wikipedia.org
+contact site:yellowpages.com
+allintext:contact site:linkedin.com
+allintext:contact
+"address"
+allintext:address
+address site:yellowpages.com
+headquarters
+headquarters site:wikipedia.org
+allintext:headquarters
+sic code site:siccode.com
+naics code site:siccode.com
+sic code site:wikipedia.org
+sic code
+naics code site:wikipedia.org
+naics code
+Number of employees
+"number of employees"
+number of employees site:wikipedia.org
+revenue
+"revenue"
+annual revenue
+"annual revenue"
+allintext:Annual Revenue
+revenue site:hoovers.com
